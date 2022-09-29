@@ -44,14 +44,14 @@
 ![image](https://user-images.githubusercontent.com/70729822/193020801-66cbd319-e9f7-4e7b-9e8f-4b6bbd9e8071.png)
 ![image](https://user-images.githubusercontent.com/70729822/193020809-78812bac-dbd9-4412-8c33-e52e029d06a0.png)
 
-- `EDA`
+- 시각화를 통한 `EDA`
 ![image](https://user-images.githubusercontent.com/70729822/193020951-137cc8dc-6d07-437c-8c2c-368e465343f4.png)
 ![image](https://user-images.githubusercontent.com/70729822/193020971-a152c5be-f147-483e-b8dc-035088532188.png)
 
 - 분석 결과와 실제 게임 시장이 주목하는 게임 비교
 
 
-## 결론 및 후기
+## 결론
 ----
 지역별로 매출, 장르와 플랫폼 트렌드 입맛에 맞춘 게임을 출시하는 것이 이상적일 것이라고 생각합니다.
 
